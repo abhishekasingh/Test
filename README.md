@@ -8,3 +8,4 @@
  - commit - Commits the file on local machine version control system
  - push - Commits the file on GitHub server
  - difftool -  Gives the comparision of previous file and modified file
+ - checkout - Undo the changes on the files
