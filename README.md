@@ -9,3 +9,4 @@
  - push - Commits the file on GitHub server
  - difftool -  Gives the comparision of previous file and modified file
  - checkout - Undo the changes on the files
+ - Revert - Does changes to committed files. Option -n is used to revert and not commit the files we have manually commit the files later
