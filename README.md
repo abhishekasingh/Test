@@ -3,7 +3,7 @@
  - For personal use only
  - Using it for the first time
  
- Git Command
+ <h2><strong>Git Command</strong></h2>
  - status -  Gives the status of the files
  - commit - Commits the file on local machine version control system
  - push - Commits the file on GitHub server
