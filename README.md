@@ -17,7 +17,7 @@
  <strong>Branch</strong>
  <ul>
  <li>git branch: List all the branches</li>
- <li>git branch <branch name>:</li>
+ <li>git branch <branch name>:Create new branch</li>
  <li>git checkout <branch name>:</li>
  <li>git chechout -b <branch name>:</li>
  <li>git merge <branch name>:</li>
